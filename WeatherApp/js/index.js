@@ -1,0 +1,1 @@
+// prompt("Welcome and find the weather of your city");
